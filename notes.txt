@@ -1,0 +1,38 @@
+TO DO-
+
+1. Build the Project
+    - Creating folder structure
+    - Adding Files
+    - Connecting Files
+
+2. Navbar
+    - HOME/PORTFOLIO 
+    - NICHOLAS SANSONE (ABOUT ME Page)
+    - CONTACT
+
+3. Portfolio item grid
+    - Images
+    - Titles
+    - Descriptions
+    - Implements animations (javascript)
+
+--> GAShip Project
+--> BAM Project
+--> Web App Dev Project
+--> Data Mining Project
+--> Big Data Project?
+--> Sports Analytics Project?
+--> Web Analytics Project Code
+
+4. About page
+    - Image
+    - Split column layout
+    - Content (include resume)
+
+5. Contact page
+    - Email that when clicked on, takes user to platform to send email to my address
+    - LinkedIn page hyperlink
+
+6. Bottom of all pages
+    - Facebook logo that links to Facebook profile
+    - LinkedIn logo that links to LinkedIn profile
